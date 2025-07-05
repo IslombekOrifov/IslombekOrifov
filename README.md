@@ -6,12 +6,3 @@
 🛠 Tech stack: Python, Django, DRF, PostgreSQL, Aiogram, Git, Docker
 
 ---
-
-### 🛠 Projects
-- ✅ Telegram Habit Tracker
-- 💸 Expense Tracker bot
-- 🍽 Meal Planner (based on ingredients)
-- 🎓 Python Learning Assistant
-
----
-
